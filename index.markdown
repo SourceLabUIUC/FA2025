@@ -6,7 +6,7 @@ layout: single_page
 
 # Introduction
 
-REO Speedwagon (originally stylized as R.E.O. Speedwagon), or simply REO, was an American rock band from Champaign, Illinois.
+**REO Speedwagon** (_originally stylized as R.E.O. Speedwagon)_, or simply REO, was an American rock band from Champaign, Illinois.
 
 Formed in 1966, the band cultivated a following during the 1970s and achieved significant commercial success throughout the 1980s. Their best-selling album, Hi Infidelity (1980), contained four US Top 40 hits and sold more than 10 million copies.[1]
 
