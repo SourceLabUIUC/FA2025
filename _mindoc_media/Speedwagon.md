@@ -17,7 +17,7 @@ date created: 5 April 2025
 copyright notice: Public domain
 
 
-_path: /assets/img/Speedwagon.jpg 
+_path:/assets/img/Speedwagon.jpg 
 media_type: "image"
 order: 1
 ---
