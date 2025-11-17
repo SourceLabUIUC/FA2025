@@ -2,8 +2,7 @@
 page: "The Source"
 media_type: "image"
 order: 1
----
-![Description]({{ site.baseurl }}/assets/img/Speedwagon.jpg)
+
 
 _title: REO Speedwagon (1982)
 description: Wikimedia Commons photograph of the band REO Speedwagon in 1982.
@@ -16,3 +15,11 @@ identifier: https://commons.wikimedia.org/wiki/File:REO_Speedwagon_(1982_Epic_Pr
 credit line: Hyperba21
 date created: 5 April 2025
 copyright notice: Public domain
+
+
+page: "The Source"
+media_type: "image"
+order: 1
+---
+![Description]({{ site.baseurl }}/assets/img/Speedwagon.jpg)
+
